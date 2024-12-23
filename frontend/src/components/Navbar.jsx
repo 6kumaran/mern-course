@@ -15,7 +15,7 @@ const Navbar = () => {
         sm: "row"
       }}>
         <Text fontSize={{base:"22px", sm:"28px"}} fontWeight={"bold"} >
-          <Link to={"/"}>Product Store 🛒</Link>
+          <Link to={"/"}>Weard Store 🛒</Link>
         </Text>
         <HStack spacing={2} alignItems={"center"}>
           <Link to={"/create"}>
